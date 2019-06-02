@@ -1,0 +1,50 @@
+{
+    "amount": 186,
+    "countGoods": 3,
+    "contents": [
+        {
+            "id_product": 1,
+            "product_name": "Mango  People  T-shirt",
+            "img": "../server/db/imgProduct/Layer1.png",
+            "sex": "male",
+            "color": "White",
+            "size": "XS",
+            "currency": "$",
+            "price": 52,
+            "quantity": 2
+        },
+        {
+            "id_product": 2,
+            "product_name": "Mango  People  T-shirt",
+            "img": "../server/db/imgProduct/Layer2.png",
+            "sex": "female",
+            "color": "Red",
+            "size": "XLL",
+            "currency": "$",
+            "price": 62,
+            "quantity": 1
+        },
+        {
+            "id_product": 3,
+            "product_name": "Mango  People  T-shirt",
+            "img": "../server/db/imgProduct/Layer3.png",
+            "sex": "male",
+            "color": "Blue",
+            "size": "XLL",
+            "currency": "$",
+            "price": 72,
+            "quantity": 1
+        },
+        {
+            "id_product": 4,
+            "product_name": "Mango  People  T-shirt",
+            "img": "../server/db/imgProduct/Layer4.png",
+            "sex": "female",
+            "color": "Red",
+            "size": "XLL",
+            "currency": "$",
+            "price": 52,
+            "quantity": 5
+        }
+    ]
+}
